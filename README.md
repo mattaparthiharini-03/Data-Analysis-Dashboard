@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-Data Analysis is the process of collecting, cleaning, organizing, and interpreting data to identify meaningful insights and trends. It helps transform raw data into useful information through charts, graphs, reports, and visualizations.Key Features: - Data Collection and Processing - Data Cleaning and Transformation - Interactive Charts and Graphs 
+#Data-Analysis(Interactive Dashboard creaation using MS Excel)
+## Project Objective
+The stores want to create an annual sales report for 2022.so,that the owner of the store can understand the customers and grow more salesin 2023 & 2024.
